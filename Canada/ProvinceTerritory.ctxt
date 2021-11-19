@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ProvinceTerritory
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ProvinceTerritory\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=name\ population
+comment1.target=ProvinceTerritory(java.lang.String,\ int)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=population
+comment4.target=void\ setPopulation(int)
+comment5.params=
+comment5.target=int\ getPopulation()
+numComments=6
